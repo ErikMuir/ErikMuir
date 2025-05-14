@@ -2,26 +2,8 @@
 
 ### 👨🏻 About Me
 
-Experienced full stack software engineer skilled in:
-- C#/.NET
-- NodeJS
-- AWS
-- Azure
-- distributed systems
-- infrastructure-as-code
-- CI/CD automation
-- web3
+| Professional Skills | Interests |
+| :--- | :--- |
+| C#/.NET<br>NodeJS<br>AWS<br>Azure<br>distributed systems<br>infrastructure-as-code<br>CI/CD automation<br>web3 | 💻 coding<br>🚀 crypto<br>🐉 dnd 5e<br>⭕ phish<br>🤔 philosophy<br>👽 sci-fi<br>🧩 handheld twisty puzzles<br>🎸 guitar |
 
-Interests
-- 💻 coding
-- 🚀 crypto
-- 🐉 dnd 5e
-- ⭕ phish
-- 🤔 philosophy
-- 🗳️ politics
-- 👽 sci-fi
-- 🧩 handheld twisty puzzles
-- 🎸 guitar
-
-Location
-- 📍 St. Louis, MO, USA
+📍 St. Louis MO USA

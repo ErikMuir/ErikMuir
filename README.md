@@ -2,6 +2,6 @@
 
 ### 👨🏻 About Me
 
-| Professional Skills | Interests |
+| Interests | Professional Skills |
 | :--- | :--- |
-| C#/.NET<br>NodeJS<br>AWS<br>Azure<br>distributed systems<br>infrastructure-as-code<br>CI/CD automation<br>web3 | 💻 coding<br>🚀 crypto<br>🐉 dnd 5e<br>⭕ phish<br>🤔 philosophy<br>👽 sci-fi<br>🧩 handheld twisty puzzles<br>🎸 guitar |
+| 💻 coding<br>🚀 crypto<br>🐉 dnd 5e<br>⭕ phish<br>🤔 philosophy<br>👽 sci-fi<br>🧩 handheld twisty puzzles<br>🎸 guitar | C#/.NET<br>NodeJS<br>AWS<br>Azure<br>distributed systems<br>infrastructure-as-code<br>CI/CD automation<br>web3 |
